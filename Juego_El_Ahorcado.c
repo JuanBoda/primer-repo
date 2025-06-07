@@ -10,7 +10,7 @@ int main() {
     return 0;
 }
 
-// Función para compatibilizar caracteres ASCII.
+// Función para compatibilizar caracteres.
 void utf_8() {
 #ifdef _WIN32
 #include <windows.h>
